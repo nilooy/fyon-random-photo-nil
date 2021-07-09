@@ -15,7 +15,7 @@ npm install
 npm start
 ```
 
-- [ ] Every time I reload/land on the page, I should see a new image
-- [ ] There should be a button to change the image without refreshing the page again
-- [ ] There should be a button to tweet the image
-- [ ] There should be a button to download the image
+- [x] Every time I reload/land on the page, I should see a new image
+- [x] There should be a button to change the image without refreshing the page again
+- [x] There should be a button to tweet the image
+- [x] There should be a button to download the image
